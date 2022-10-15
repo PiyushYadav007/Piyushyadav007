@@ -8,18 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/bAYObfM.png"/></a>
+  <a href="https://www.linkedin.com/in/piyush-yadav-517474228"><img width="32px" alt="Linkedin" title="DenverCoder1 Dev.to" src="https://i.imgur.com/bAYObfM.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="mailto:piyushyadavaugust3@gmail.com"><img width="32px" alt="Ko-fi" title="Email" src="https://i.imgur.com/KxTgdUK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+ </p>
 
 <br/>
 
@@ -36,6 +29,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav-rjit&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav-rjit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav-rjit" alt="piyushyadav-rjit" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav-rjit&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav-rjit" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav-rjit" alt="piyushyadav-rjit" /></a> </p>
+
+hi, i'm [Piyush Yadav](), a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/piyushyadav-rjit/piyushyadav-rjit/blob/main/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:Piyushyadavaugust3@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
