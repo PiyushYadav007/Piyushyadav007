@@ -28,13 +28,13 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav-007&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav-007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav007&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav-007" alt="piyushyadav-007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav007" alt="piyushyadav007" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav-007&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav-007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav007&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav-007" alt="piyushyadav-007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav007" alt="piyushyadav007" /></a> </p>
 
 hi, i'm [Piyush Yadav](), a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
