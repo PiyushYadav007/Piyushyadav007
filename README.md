@@ -82,6 +82,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-[![Piyush Yadav's github activity graph](https://github-readme-activity-graph-o1ic.vercel.app/graph?username=piyushyadav007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" )]
+[![Piyush Yadav's github activity graph](https://github-readme-activity-graph.cyclic.com/graph?username=piyushyadav007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" )]
 
 
