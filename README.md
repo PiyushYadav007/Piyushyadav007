@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-yadav-517474228"><img width="32px" alt="Linkedin" title="DenverCoder1 Dev.to" src="https://i.imgur.com/bAYObfM.png"></a>
+  <a href="https://www.linkedin.com/in/piyushyadav-supernova/"><img width="32px" alt="Linkedin" title="DenverCoder1 Dev.to" src="https://i.imgur.com/bAYObfM.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:piyushyadavaugust3@gmail.com"><img width="32px" alt="Ko-fi" title="Email" src="https://i.imgur.com/KxTgdUK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -39,9 +39,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav007" alt="piyushyadav007" /></a> </p>
 
-hi, i'm [Piyush Yadav](), a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Piyush Yadav](), a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/piyushyadav-rjit/piyushyadav-rjit/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -87,6 +87,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 [![Piyush Yadav's github activity graph](https://github-activity-graph.vercel.app/graph?username=piyushyadav007&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" )](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
